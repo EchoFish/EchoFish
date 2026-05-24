@@ -14,15 +14,11 @@ Before grad school I was a regular full-stack person; you can still find traces 
 
 #### Selected projects
 
-<a href="https://github.com/EchoFish/PhaseTokenizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoFish&repo=PhaseTokenizer&theme=nord&hide_border=true" />
-</a>
-<a href="https://github.com/EchoFish/insar-vlm-bench">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoFish&repo=insar-vlm-bench&theme=nord&hide_border=true" />
-</a>
-<a href="https://github.com/EchoFish/deformation-narrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoFish&repo=deformation-narrator&theme=nord&hide_border=true" />
-</a>
+| Project | What it is |
+|---|---|
+| [**PhaseTokenizer**](https://github.com/EchoFish/PhaseTokenizer) | Discrete phase-aware tokenizer for SAR imagery, so autoregressive multimodal models can ingest radar tiles without throwing away phase. |
+| [**insar-vlm-bench**](https://github.com/EchoFish/insar-vlm-bench) | A benchmark for vision-language models on four interferogram understanding tasks — coherence, deformation localization, fringe counting, noise attribution. |
+| [**deformation-narrator**](https://github.com/EchoFish/deformation-narrator) | Library that turns an InSAR displacement time-series into a short, structured natural-language report. |
 
 #### Research interests
 
